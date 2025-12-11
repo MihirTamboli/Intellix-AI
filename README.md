@@ -158,5 +158,3 @@ Feel free to use and modify it.
 **Mihir Tamboli**
 AI/ML Developer | Python | React | Automation
 
-
-Just tell me!
